@@ -3,14 +3,14 @@
 🎓 CS student at FAST-NUCES, Islamabad  
 🔭 Passionate about Full Stack Development, AI, and Systems Programming  
 💻 Coding in C++, Java, Python, JavaScript  
-🏆 Silver Medalist | Dean's List x4 | Scholarship Winner  
+🏆 Silver Medalist | Dean's List x4 
 
 ---
 
 ## 🔧 Tech Stack
 **Languages:** C/C++/C#, Java, Python, JavaScript, SQL  
 **Tools:** Docker, Kubernetes, MongoDB, OpenMP, OpenCL  
-**Frameworks:** Django, React, Next.js, Node.js
+**Frameworks:** Tensorflow, Keras, Node.js, React
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 🧠 Experience
 
-- 🧑‍💻 **Full-Stack Intern @ Alfabolt** – React, Next.js, Django, testing
+- 🧑‍💻 **Full-Stack Intern @ Alfabolt** – HTML, CSS, JS, React, Django
 - 🧑‍🏫 **Lab Demonstrator @ FAST-NUCES** – TA for Computer Networks, Data Structures
 
 ---
@@ -39,7 +39,6 @@
 
 - 🥈 **Silver Medalist, Fall 2024**
 - 📜 Dean’s List: Fall ’22, Fall ’23, Spring ’24, Fall ’24
-- 🎓 100% Scholarship O & A Levels (Beaconhouse)
 
 ---
 
