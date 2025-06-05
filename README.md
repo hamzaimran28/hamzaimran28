@@ -22,7 +22,7 @@
 | [🅿️ Vehicle Parking Management System](https://github.com/hamzaimran28/VPMS.git) | Node.js app with real-time parking space tracking & automated fee calculation | Node.js, HTML/CSS |
 | [🌐 Hamfood Website](https://hamfood-hamza.netlify.app/) | Fully responsive food-order site | HTML/CSS/JS |
 | [🔁 Microservices Event Management](https://github.com/hamzaimran28/Event-Booking-Microservices.git) | Containerized event system with REST APIs & async RabbitMQ messaging, deployed with Kubernetes | Node.js, Docker, RabbitMQ, Kubernetes |
-| [📦 EventaX](https://github.com/hamzaimran28/EventaX.git) | Java-based collaborative event planning tool with registration & scheduling | Java |
+| [📦 EventaX](https://github.com/hamzaimran28/EventaX.git) | Java-based collaborative event planning tool with registration & scheduling | Java, JavaFX, Scene Builder |
 
 ➡️ See more in [Repositories](https://github.com/your-username?tab=repositories)
 
