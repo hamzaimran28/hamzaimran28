@@ -31,7 +31,7 @@
 ## 🧠 Experience
 
 - 🧑‍💻 **Full-Stack Intern @ Alfabolt** – HTML, CSS, JS, React, Django
-- 🧑‍🏫 **Lab Demonstrator @ FAST-NUCES** – TA for Computer Networks, Data Structures
+- 🧑‍🏫 **Lab Demonstrator @ FAST-NUCES** – Teacher Assistant for Data Structures, Lab Demonstrator for Computer Networks
 
 ---
 
