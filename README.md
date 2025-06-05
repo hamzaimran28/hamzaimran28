@@ -10,7 +10,7 @@
 ## 🔧 Tech Stack
 **Languages:** C/C++/C#, Java, Python, JavaScript, SQL  
 **Tools:** Docker, Kubernetes, MongoDB, OpenMP, OpenCL  
-**Frameworks:** Tensorflow, Keras, Node.js, React
+**Frameworks:** Tensorflow, Keras, Node.js, Express.js, ReactJS
 
 ---
 
