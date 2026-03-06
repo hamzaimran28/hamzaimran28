@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Mohammad Hamza Imran
+#  Hi, I'm Mohammad Hamza Imran
 
-🎓 **BS Computer Science — FAST-NUCES, Islamabad** (CGPA: **3.76**)  
-🤖 Passionate about **Artificial Intelligence, Large Language Models, and Scalable Software Systems**  
-💡 Interested in building **AI-powered products, RAG systems, and intelligent automation**
+ **BS Computer Science — FAST-NUCES, Islamabad** (CGPA: **3.76**)  
+ Passionate about **Artificial Intelligence, Large Language Models, and Scalable Software Systems**  
+ Interested in building **AI-powered products, RAG systems, and intelligent automation**
 
 🏆 **Gold Medalist (Fall 2025)** | **Silver Medalist (Fall 2024)**  
 📜 **Dean’s List:** Fall ’22, Fall ’23, Spring ’24, Fall ’24, Spring ’25  
