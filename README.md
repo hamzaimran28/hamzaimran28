@@ -37,53 +37,67 @@
 ## 🧠 Multimodal RAG System
 Built a **multimodal Retrieval-Augmented Generation pipeline** enabling semantic search across **PDF text and images** using embeddings and vector databases.
 
-**Tech:** Python, LLMs, LangChain, Vector Databases
+**Tech:** Python, LLMs, LangChain, Vector Databases  
+
+🔗 **Repository:** [Project Link](https://github.com/hamzaimran28/Multimodal-RAG-and-Semantic-Search-Systems)  
 
 ---
 
 ## 🔎 Semantic Product Search
 Implemented a **neural semantic search and ranking system** using transformer-based embeddings for improved retrieval accuracy.
 
-**Tech:** Python, MiniLM, NLP
+**Tech:** Python, MiniLM, NLP  
+
+🔗 **Repository:** [Project Link](https://github.com/hamzaimran28/Multimodal-RAG-and-Semantic-Search-Systems)  
 
 ---
 
 ## 🧬 Generative AI Models
-Developed and experimented with modern generative models including:
+Implemented and experimented with modern generative models including:
 
-- **CycleGAN** – Image-to-image translation
-- **mBART** – Multilingual text translation
-- **Diffusion Transformers** – Conditional generative modeling
+- **CycleGAN** – Image-to-image translation  
+- **mBART** – Multilingual text translation  
+- **Diffusion Transformers** – Conditional generative modeling  
 
-**Tech:** PyTorch, TensorFlow
+**Tech:** PyTorch, TensorFlow  
+
+🔗 **Repository:** [Project Link](https://github.com/hamzaimran28/Advanced-Generative-AI-Models-for-Vision-and-Language)
 
 ---
 
 ## 🚗 TORCS Self-Driving Model
-Trained a **deep learning model for autonomous driving** in the TORCS simulator using real driving datasets.
+Trained a **deep learning model for autonomous driving** in the TORCS simulator using driving datasets.
 
-**Tech:** Python, TensorFlow, Keras
+**Tech:** Python, TensorFlow, Keras  
+
+🔗 **Repository:** [Project Link](https://github.com/hamzaimran28/TORCS-Self-Driving-Model)  
 
 ---
 
 ## ⚙️ Microservices Event Management System
 Designed a **containerized microservices architecture** with asynchronous messaging and scalable deployment.
 
-**Tech:** Node.js, RabbitMQ, Docker, Kubernetes
+**Tech:** Node.js, RabbitMQ, Docker, Kubernetes  
+
+🔗 **Repository:** [Project Link](https://github.com/hamzaimran28/Event-Booking-Microservices)
 
 ---
 
 ## ⛓ Supply Chain Management DApp
 Developed a **blockchain-based product traceability system** enabling transparent supply chain tracking using smart contracts.
 
-**Tech:** Smart Contracts, Web Interface
+**Tech:** Smart Contracts, Web Interface  
+
+🔗 **Repository:** [Project Link](https://github.com/hamzaimran28/Retail-DApp)
 
 ---
 
 ## 🅿️ Parking Management System
 Built a **real-time parking management application** with automated fee calculation and live space tracking.
 
-**Tech:** Node.js, HTML, CSS
+**Tech:** Node.js, HTML, CSS  
+
+🔗 **Repository:** [Project Link](https://github.com/hamzaimran28/VPMS)
 
 ---
 
@@ -127,7 +141,7 @@ Built a **real-time parking management application** with automated fee calculat
 # 🌐 Connect With Me
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/hamza-imran-781682323/  
-📧 **Email:** m.hamza.imran.666@gmail.com
+📧 **Email:** m.hamza.imran.666@gmail.com  
 
 ---
 
