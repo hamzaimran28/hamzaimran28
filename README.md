@@ -1,48 +1,141 @@
-# 👋 Hi, I'm Mohammad Hamza Imran!
+# 👋 Hi, I'm Mohammad Hamza Imran
 
-🎓 CS student at FAST-NUCES, Islamabad  
-🔭 Passionate about Full Stack Development, AI, and Systems Programming  
-💻 Coding in C++, Java, Python, JavaScript  
-🏆 Silver Medalist | Dean's List x4 
+🎓 **BS Computer Science — FAST-NUCES, Islamabad** (CGPA: **3.76**)  
+🤖 Passionate about **Artificial Intelligence, Large Language Models, and Scalable Software Systems**  
+💡 Interested in building **AI-powered products, RAG systems, and intelligent automation**
 
----
-
-## 🔧 Tech Stack
-**Languages:** C/C++/C#, Java, Python, JavaScript, SQL  
-**Tools:** Docker, Kubernetes, MongoDB, OpenMP, OpenCL  
-**Frameworks:** Tensorflow, Keras, Node.js, Express.js, ReactJS
+🏆 **Gold Medalist (Fall 2025)** | **Silver Medalist (Fall 2024)**  
+📜 **Dean’s List:** Fall ’22, Fall ’23, Spring ’24, Fall ’24, Spring ’25  
+⭐ **Rector’s List:** Fall ’25  
 
 ---
 
-## 🚀 Projects
+# 💻 Tech Stack
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🚗 TORCS Self-Driving](https://github.com/hamzaimran28/TORCS-Self-Driving-Model.git) | Trained a Keras/TensorFlow model for autonomous driving in the TORCS simulator | Python, Tensorflow, Keras |
-| [🅿️ Vehicle Parking Management System](https://github.com/hamzaimran28/VPMS.git) | Node.js app with real-time parking space tracking & automated fee calculation | Node.js, HTML/CSS |
-| [🌐 Hamfood Website](https://hamfood-hamza.netlify.app/) | Fully responsive food-order site | HTML/CSS/JS |
-| [🔁 Microservices Event Management](https://github.com/hamzaimran28/Event-Booking-Microservices.git) | Containerized event system with REST APIs & async RabbitMQ messaging, deployed with Kubernetes | Node.js, Docker, RabbitMQ, Kubernetes |
-| [📦 EventaX](https://github.com/hamzaimran28/EventaX.git) | Java-based collaborative event planning tool with registration & scheduling | Java, JavaFX, Scene Builder |
+## Languages
+`Python` `C/C++` `C#` `Java` `JavaScript` `SQL`
 
-➡️ See more in [Repositories](https://github.com/hamzaimran28?tab=repositories)
+## AI / Machine Learning
+`PyTorch` `TensorFlow` `Keras` `LLMs` `LangChain` `RAG` `LoRA Fine-Tuning`
 
----
+## Backend & Systems
+`Node.js` `Express.js` `REST APIs` `Microservices` `RabbitMQ`
 
-## 🧠 Experience
+## DevOps & Cloud
+`Docker` `Kubernetes` `AWS EC2` `Terraform` `Argo CD` `Prometheus` `Ansible`
 
-- 🧑‍💻 **Full-Stack Intern @ Alfabolt** – HTML, CSS, JavaScript, React
-- 🧑‍🏫 **Lab Demonstrator @ FAST-NUCES** – Teacher Assistant for Data Structures, Lab Demonstrator for Computer Networks
+## Databases & Retrieval
+`MongoDB` `Vector Databases` `Semantic Search`
 
----
-
-## 🏅 Achievements
-
-- 🥈 **Silver Medalist, Fall 2024**
-- 📜 Dean’s List: Fall ’22, Fall ’23, Spring ’24, Fall ’24
+## Parallel & Systems Programming
+`OpenMP` `OpenCL`
 
 ---
 
-## 🌐 Connect with Me
+# 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-imran-781682323)  
-📫 Email: m.hamza.imran.666@gmail.com
+## 🧠 Multimodal RAG System
+Built a **multimodal Retrieval-Augmented Generation pipeline** enabling semantic search across **PDF text and images** using embeddings and vector databases.
+
+**Tech:** Python, LLMs, LangChain, Vector Databases
+
+---
+
+## 🔎 Semantic Product Search
+Implemented a **neural semantic search and ranking system** using transformer-based embeddings for improved retrieval accuracy.
+
+**Tech:** Python, MiniLM, NLP
+
+---
+
+## 🧬 Generative AI Models
+Developed and experimented with modern generative models including:
+
+- **CycleGAN** – Image-to-image translation
+- **mBART** – Multilingual text translation
+- **Diffusion Transformers** – Conditional generative modeling
+
+**Tech:** PyTorch, TensorFlow
+
+---
+
+## 🚗 TORCS Self-Driving Model
+Trained a **deep learning model for autonomous driving** in the TORCS simulator using real driving datasets.
+
+**Tech:** Python, TensorFlow, Keras
+
+---
+
+## ⚙️ Microservices Event Management System
+Designed a **containerized microservices architecture** with asynchronous messaging and scalable deployment.
+
+**Tech:** Node.js, RabbitMQ, Docker, Kubernetes
+
+---
+
+## ⛓ Supply Chain Management DApp
+Developed a **blockchain-based product traceability system** enabling transparent supply chain tracking using smart contracts.
+
+**Tech:** Smart Contracts, Web Interface
+
+---
+
+## 🅿️ Parking Management System
+Built a **real-time parking management application** with automated fee calculation and live space tracking.
+
+**Tech:** Node.js, HTML, CSS
+
+---
+
+# 🧑‍💻 Experience
+
+## 🤖 LLM Intern — Skylabs AI (Islamabad)
+**Jun 2025 – Aug 2025**
+
+- Developed **LLM-driven pipelines** for automating software and model evaluation  
+- Built **AI tooling for model analysis and benchmarking**
+
+---
+
+## 🌐 Web Development Intern — Alfabolt
+**Jul 2024 – Aug 2024**
+
+- Developed and tested **web applications using HTML, CSS, and JavaScript**
+- Gained exposure to **Django and React-based development workflows**
+
+---
+
+## 🧑‍🏫 Lab Demonstrator & Teaching Assistant — FAST-NUCES
+**Aug 2024 – Jun 2025**
+
+- Teaching Assistant for **Data Structures**
+- Lab Demonstrator for **Computer Networks**
+- Mentored and evaluated **50+ students**
+
+---
+
+# 🏆 Achievements
+
+🥇 **Gold Medalist — Fall 2025**  
+🥈 **Silver Medalist — Fall 2024**  
+📜 **Dean’s List:** 5 Semesters  
+⭐ **Rector’s List:** Fall 2025
+
+---
+
+# 📊 GitHub Stats
+
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaimran28&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaimran28&layout=compact)
+
+---
+
+# 🌐 Connect With Me
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/hamza-imran-781682323/  
+📧 **Email:** m.hamza.imran.666@gmail.com
+
+---
+
+⭐ *Always open to collaborating on AI, machine learning, and full-stack projects.*
